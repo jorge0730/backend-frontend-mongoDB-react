@@ -1,0 +1,12 @@
+.fila{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(31, 177, 255);
+    width: 100%;
+}
+.columna{
+    align-self: center;
+}
+.boton{
+    margin: 2px;
+}
